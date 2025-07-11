@@ -110,6 +110,82 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源',
     },
+    fantuan: {
+        api: 'https://www.fantuan.tv/api.php/provide/vod',
+        name: '饭团影视',
+    },
+    lziapi: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '影视工厂',
+    },
+    qiqidys: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        name: '七七资源',
+    },
+    duanju: {
+        api: 'https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json',
+        name: '短剧',
+    },
+    oktv: {
+        api: 'https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/oktv.json',
+        name: 'OK影视',
+    },
+    77dc: {
+        api: 'https://chuanshuo.77blog.cn/dc.json',
+        name: '77dc',
+    },
+    xhztv4k: {
+        api: 'http://xhztv.top/4k.json',
+        name: '聚玩盒子4K',
+    },
+    tvbox: {
+        api: 'http://cdn.qiaoji8.com/tvbox.json,
+        name: 'TVBOX',
+    },
+    qixing: {
+        api: 'https://qixing.myhkw.com/DC.txt',
+        name: '七星仓',
+    },
+    chuanshuo: {
+        api: 'https://chuanshuo.77blog.cn/dc.json',
+        name: '飞哥传奇线路',
+    },
+    qixingbox: {
+        api: 'https://qixing.myhkw.com/DC.txt',
+        name: '七星宝盒',
+    },
+    xmbjm: {
+        api: 'http://xmbjm.fh4u.org/dc.txt',
+        name: '拾光多仓',
+    },
+    fmys: {
+        api: 'http://fmys.top/fmys.json',
+        name: '驸马影视',
+    },
+    ocean2025: {
+        api: 'https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json',
+        name: 'ocean2025',
+    },
+    thdjk: {
+        api: 'https://ztha.top/TVBox/thdjk.json',
+        name: '挺好分享',
+    },
+    qiaoji8: {
+        api: 'http://cdn.qiaoji8.com/tvbox.json',
+        name: '巧记Box',
+    },
+    XYQTVBox: {
+        api: 'http://74.120.175.78/JK/XYQTVBox/dj.json',
+        name: '香雅情短剧',
+    },
+    shhentu: {
+        api: 'https://git.acwing.com/shhentu/lzxw/-/raw/main/Monster.json',
+        name: '林中的小屋',
+    },
+    yiwu369: {
+        api: 'https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json',
+        name: '不是青龙',
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
