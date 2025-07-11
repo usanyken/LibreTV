@@ -138,7 +138,7 @@ const API_SITES = {
         api: 'http://xhztv.top/4k.json',
         name: '聚玩盒子4K',
     },
-    TVBOX: {
+    tvbox: {
         api: 'http://cdn.qiaoji8.com/tvbox.json',
         name: 'TVBOX',
     },
@@ -150,7 +150,7 @@ const API_SITES = {
         api: 'https://chuanshuo.77blog.cn/dc.json',
         name: '飞哥传奇线路',
     },
-    qixingBOX: {
+    qixingbox: {
         api: 'https://qixing.myhkw.com/DC.txt',
         name: '七星宝盒',
     },
@@ -174,7 +174,7 @@ const API_SITES = {
         api: 'http://cdn.qiaoji8.com/tvbox.json',
         name: '巧记Box',
     },
-    XYQTVBox: {
+    xgqtvbox: {
         api: 'http://74.120.175.78/JK/XYQTVBox/dj.json',
         name: '香雅情短剧',
     },
